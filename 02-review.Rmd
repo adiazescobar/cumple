@@ -63,15 +63,7 @@ theme_simple <- theme_bw() + theme(
     display: block !important;
   }
 }
-<style type="text/css">
-.remark-slide-content {
-    font-size: 30px;
-    padding: 1em 4em 1em 4em;
-}
-</style>
-.my-one-page-font {
-  font-size: 40px;
-}
+
 ```
 
 # Outliers: Una Breve Introducción
@@ -718,7 +710,7 @@ Se salvó por .hi[15 días]
 | Pato   | 26               | 29             |
 | Lili   | 28               | 31             |
 | Nita   | 32               | 35             |
-| Juan   | 33               | 39             |
+| Juan   | 33               | 36             |
 | Diego  | 39               | 42             |
 ---
 #2. .hi[Vejez] de los padres
@@ -727,7 +719,7 @@ Se salvó por .hi[15 días]
 | Pato   | 26               | 29             |
 | Lili   | 28               | 31             |
 | Nita   | 32               | 35             |
-| Juan   | 33               | 39             |
+| Juan   | 33               | 36             |
 | Diego  | 39 / 13 / 11              | 42             |
 
 --
@@ -772,7 +764,8 @@ Diego es un OUTLIER por culpa de .hi[LILI]
   <source src="regueton.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
+---
+#Bono3
 <audio controls>
   <source src="ñerada.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
